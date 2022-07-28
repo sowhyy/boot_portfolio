@@ -1,0 +1,127 @@
+OUR TIME HAS COME
+this our way
+bring it on
+break the frame
+
+우리의 시대가 왔습니다.
+우리 만의 방식 / 우리가 가고자 하는 길
+끝까지 승부하라 / 덤벼라
+틀을 깨다 / 판을 흔들어라 
+
+Our Time Has Come
+
+#78c2ad
+#56cc9d
+#20c997
+#609b8a
+
+#ff7851
+#fd7e14
+
+
+#f3969a
+#56cc9d
+#212529
+
+#ced4da
+#aaa
+#888
+#5a5a5a
+#343a40
+#212529
+
+#e83e8c
+#fff5e1
+
+  --bs-table-bg: #78c2ad;
+  --bs-table-border-color: #86c8b5;
+  --bs-table-striped-bg: #7fc5b1;
+  --bs-table-active-bg: #86c8b5;
+  --bs-table-hover-bg: #82c7b3;
+  border-color: var(--bs-table-border-color);
+
+  --bs-table-bg: #f3969a;
+  --bs-table-border-color: #f4a1a4;
+  --bs-table-striped-bg: #f49b9f;
+  --bs-table-active-bg: #f4a1a4;
+  --bs-table-hover-bg: #f49ea2;
+  border-color: var(--bs-table-border-color);
+
+
+ 
+.link-primary {
+  color: #78c2ad !important;
+}
+.link-primary:focus,
+.link-primary:hover {
+  color: #609b8a !important;
+}
+.link-secondary {
+  color: #f3969a !important;
+}
+.link-secondary:focus,
+.link-secondary:hover {
+  color: #c2787b !important;
+}
+.link-success {
+  color: #56cc9d !important;
+}
+.link-success:focus,
+.link-success:hover {
+  color: #45a37e !important;
+}
+.link-info {
+  color: #6cc3d5 !important;
+}
+.link-info:focus,
+.link-info:hover {
+  color: #569caa !important;
+}
+
+.bg-dark {
+  background-color: #f3969a !important;
+}
+.border-dark {
+  border-color: #f3969a !important;
+}
+.btn,
+.btn:hover {
+  color: #fff;
+}
+.btn-light,
+.btn-light:hover {
+  color: #5a5a5a;
+}
+.btn-link,
+.btn-link:hover {
+  color: #78c2ad;
+}
+.btn-link.disabled:hover {
+  color: #888;
+}
+.btn-outline-primary {
+  color: #78c2ad;
+}
+.btn-outline-secondary {
+  color: #f3969a;
+}
+.btn-outline-success {
+  color: #56cc9d;
+}
+.btn-outline-info {
+  color: #6cc3d5;
+}
+.btn-outline-warning {
+  color: #ffce67;
+}
+.btn-outline-danger {
+  color: #ff7851;
+}
+.btn-outline-dark {
+  color: #343a40;
+}
+.btn-outline-light {
+  color: #f8f9fa;
+}
+
+
