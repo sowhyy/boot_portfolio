@@ -200,16 +200,22 @@
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
-    loop: true,
+    loop: true, // 무한 반복
+    spaceBetween: 30,
+    centeredSlides: true,
     autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
+      delay: 2500,
+      disableOnInteraction: false,
     },
     pagination: {
       el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    }
+      clickable: true,
+    },
+
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
   });
 
   /**
